@@ -1,1 +1,1 @@
-# serverless-app
+# coding-project-template
